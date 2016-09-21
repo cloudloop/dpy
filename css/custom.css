@@ -65,3 +65,10 @@ body {
 .bigbtncolgit {
     background: #ffffff;;
 }
+
+.abouttitle {
+    display: inline-block;
+    text-align: center;
+    font-style: bold;
+    text-decoration-line: underline;
+}
